@@ -1,3 +1,4 @@
+export * from './utils';
 /**
  * 打开地图app
  *

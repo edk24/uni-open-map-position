@@ -1,8 +1,8 @@
 {
   "name": "uni-open-map-position",
   "version": "1.0.0",
-  "description": "uniapp 打开地图APP定位SDK",
-  "main": "index.js",
+  "description": "uniapp 移动端APP打开地图应用导航，标记位置信息",
+  "main": "./lib/index.js",
   "keywords": [
     "uniapp",
     "地图",
