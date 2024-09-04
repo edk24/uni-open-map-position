@@ -30,7 +30,7 @@ uniapp 移动端APP打开地图应用导航，标记位置信息
 ```javascript
 import { openMap } from 'uni-open-map-position';
 
-openMap([106.628201, 26.646694], '贵阳市', '我的测试应用');
+openMap([106.628201, 26.646694], encodeURIComponent('武松醉鹅'), encodeURIComponent('我的测试应用'));
 ```
 
 ## 坐标系
